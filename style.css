@@ -1,0 +1,52 @@
+#contact iframe {
+    width: 100%;
+
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+
+}
+
+.movie_head i {
+    float: right;
+
+}
+
+.movie_text span {
+    color: yellowgreen;
+}
+
+#bye {
+
+    visibility: hidden;
+}
+
+#hello {
+    background-color: black;
+    height: 2px;
+}
+
+body {
+    background: rgb(50, 0, 155);
+    background: linear-gradient(90deg, rgba(50, 0, 155, 1) 0%, rgba(0, 210, 255, 1) 35%, rgba(162, 244, 211, 1) 85%);
+}
+h1 {
+    color:black;
+}
+
+h2 {
+    color: white;
+}
+
+h5 {
+    color: black;
+
+    font-size: 20px;
+}
+
